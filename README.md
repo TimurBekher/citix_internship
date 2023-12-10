@@ -1,4 +1,5 @@
-
+**Solution description**  
+I did not allow data indicating the absence of a guest room, basement, etc., so as not to focus on them when generating a post  
 
 **Questions**  
 **1)How to mimic the style of successful Instagram posts?**  
